@@ -1,6 +1,4 @@
 # SEASONAL-PROCUREMENT
-
-<img width="1175" height="647" alt="Image" src="https://github.com/user-attachments/assets/06ed4976-4ae1-4999-9285-b405f5ef1d71" />
 ## Andhra Pradesh Agricultural Procurement Analysis (2020–2022)
 
 This repository presents an Excel-based analysis of agricultural procurement data from Andhra Pradesh, India, covering multiple commodities, districts, and crop seasons. The goal is to uncover key insights to guide data-driven decisions in agricultural planning and policy.
@@ -63,7 +61,10 @@ A Pearson correlation matrix was calculated between **quantity procured** and **
 
 ---
 
-## 📈 Sample Visuals (Not Included Here)
+## 📈 Sample Visuals 
+
+<img width="1175" height="647" alt="Image" src="https://github.com/user-attachments/assets/06ed4976-4ae1-4999-9285-b405f5ef1d71" />
+
 - Top crops by revenue per ton
 - District-wise procurement heatmaps
 - Crop-season profitability matrix
