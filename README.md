@@ -79,4 +79,4 @@ Feel free to connect:
 
 ---
 
-> 📌 *This project is ideal for analysts exploring Excel-based insights in agriculture, especially those focusing on regional procurement performance in India.*
+> 📌 *This project is ideal for analysts exploring Excel-based insights in agriculture, especially those focusing on regional procurement performance.*
